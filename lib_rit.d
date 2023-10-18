@@ -1,0 +1,17 @@
+.\lib_rit.o: RIT\lib_RIT.c
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\lib_rit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\lib_rit.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\lib_rit.o: RIT\RIT.h
+.\lib_rit.o: RIT\../sprite_wrapper/wrapper.h
+.\lib_rit.o: RIT\../sprite_wrapper/../GLCD/GLCD.h
+.\lib_rit.o: RIT\../sprite_wrapper/../timer/timer.h
+.\lib_rit.o: RIT\../sprite_wrapper/../RIT/RIT.h
+.\lib_rit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\lib_rit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\lib_rit.o: RIT\../sprite_wrapper/../TouchPanel/TouchPanel.h
