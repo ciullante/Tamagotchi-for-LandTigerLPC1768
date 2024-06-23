@@ -6,7 +6,8 @@ Welcome to the Tamagotchi for LandTigerLPC1768 project. This README provides an 
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [License](#license)
+3. [Images](#images)
+4. [License](#license)
 
 ## Overview
 
@@ -17,6 +18,14 @@ The Tamagotchi for LandTigerLPC1768 project is a bare-metal C and ARM assembly i
 - **Frame-by-frame Animation Management**: Developed a library for efficient frame-by-frame animation using interrupts, optimizing performance.
 - **Enhanced LCD Controller Interface**: Expanded the functionalities of the LCD controller interface, achieving a tenfold increase in refresh rate.
 - **Sound Management Library**: Implemented a modular library for sound management, allowing playback of simple musical compositions through direct interaction with the embedded DAC within the speaker.
+
+## Example
+### Eating
+![image1](images/image1.gif)
+### Cuddling
+![image2](images/image2.gif)
+### Game Over
+![image2](images/image3.gif)
 
 ## License
 
