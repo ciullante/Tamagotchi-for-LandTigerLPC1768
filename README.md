@@ -6,8 +6,10 @@ Welcome to the Tamagotchi for LandTigerLPC1768 project. This README provides an 
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Images](#images)
-4. [License](#license)
+3. [Functionalities Preview](#functionalitiesPreview)
+4. [Getting Started](#GettingStarted)
+5. [License](#license)
+
 
 ## Overview
 
@@ -19,13 +21,28 @@ The Tamagotchi for LandTigerLPC1768 project is a bare-metal C and ARM assembly i
 - **Enhanced LCD Controller Interface**: Expanded the functionalities of the LCD controller interface, achieving a tenfold increase in refresh rate.
 - **Sound Management Library**: Implemented a modular library for sound management, allowing playback of simple musical compositions through direct interaction with the embedded DAC within the speaker.
 
-## Example
+## Functionalities Preview
 ### Eating
 ![image1](images/image1.gif)
 ### Cuddling
 ![image2](images/image2.gif)
 ### Game Over
 ![image2](images/image3.gif)
+
+## GettingStarted
+
+### Prerequisites
+To set up the project, you need the following tools and components:
+
+- LandTiger LPC1768 development board
+- Keil uVision
+- ARM cortex M3 C cross compiler
+### Installation
+
+1. Clone the repository
+2. Open in Keil uVision
+3. Build and Flash the project to the board
+4. Have fun!
 
 ## License
 
